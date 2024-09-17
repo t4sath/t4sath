@@ -6,7 +6,6 @@
 - :computer: Desenvolvedora FullStack em formação na Cubos Academy
 - :mortar_board: Fazendo Tecnólogo em Design Gráfico - Uninter
 - :clapper: Freelancer nas horas vagas
-- :video_game: Games, Animes & Ficção Científica
   </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofya-aguiar-b027432a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
