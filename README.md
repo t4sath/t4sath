@@ -3,9 +3,9 @@
 <img src="https://ouch-cdn2.icons8.com/YFz-whOp5v5BK4J3wTEMgxD5joiJsBJs71GR6ZCA54Y/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTQx/Lzc5OGM3OWRjLTM5/NjAtNDcwMC1iZmMy/LTY3NTY2YTE4NjU4/MC5wbmc.png" h="200px" align="right" >
   <p align="left">
     
-- :computer: Desenvolvedora FullStack em formação na Cubos Academy
+- :computer: Desenvolvedora FullStack formada na Cubos Academy
 - :mortar_board: Fazendo Tecnólogo em Design Gráfico - Uninter
-- :clapper: Freelancer nas horas vagas
+- :clapper: Autodidata em Java e Python
   </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofya-aguiar-b027432a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
